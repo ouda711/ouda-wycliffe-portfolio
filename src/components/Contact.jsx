@@ -174,7 +174,7 @@ const Contact = () => {
         <div className="footer">
           © 2024 | All rights reserved by
           <span>
-            <a href="">Ouda Wycliffe</a>
+            <a href="/">Ouda Wycliffe</a>
           </span>
         </div>
       </section>
